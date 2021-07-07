@@ -10,3 +10,4 @@ if number <=25 and number >=1
 else
   puts "Vous avez été trop gourmand, réessayez de relancer en vérifiant que votre nombre est compris entre 1 et 25 !!"
 end
+end
